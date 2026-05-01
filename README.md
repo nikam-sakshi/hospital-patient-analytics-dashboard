@@ -19,14 +19,14 @@ This project presents an interactive Power BI dashboard to analyze hospital pati
 * Cost analysis by age group
 * Readmission analysis
 * Outcome and satisfaction analysis
-* Interactive filters (Condition, Procedure, Age)
+* Gender analysis by condition
+* Interactive filters (Condition, Procedure, Age, Gender)
 
 
 ## 🔧 Data Preparation
 
 * Converted data types for numerical analysis
 * Handled missing values appropriately
-* Standardized categorical fields (Readmission, Outcome)
 * Ensured data consistency for accurate insights
 
 
@@ -45,6 +45,7 @@ This project presents an interactive Power BI dashboard to analyze hospital pati
 * Older age groups tend to incur higher treatment costs
 * Readmission rates highlight potential gaps in treatment effectiveness
 * Patient outcomes and satisfaction help evaluate hospital service quality
+* Female patients slightly outnumber male patients overall
 
 
 ## 📸 Dashboard Screenshot
