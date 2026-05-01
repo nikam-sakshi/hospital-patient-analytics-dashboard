@@ -15,7 +15,7 @@ This project presents an interactive Power BI dashboard to analyze hospital pati
 ## 📊 Dashboard Features
 
 * KPI Cards: Total Patients, Average Cost, Length of Stay, Readmission Rate, Satisfaction
-* Condition-wise patient distribution
+* Cost analysis by condition
 * Cost analysis by age group
 * Readmission analysis
 * Outcome and satisfaction analysis
@@ -41,7 +41,7 @@ This project presents an interactive Power BI dashboard to analyze hospital pati
 
 ## 🔍 Key Insights
 
-* Certain medical conditions contribute to higher patient volume
+* Certain medical conditions contribute to higher treatment costs
 * Older age groups tend to incur higher treatment costs
 * Readmission rates highlight potential gaps in treatment effectiveness
 * Patient outcomes and satisfaction help evaluate hospital service quality
